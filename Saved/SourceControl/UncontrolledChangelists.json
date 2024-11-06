@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Ninja/Animation/NinjaMM_Jump.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Ninja/ABP_Ninja.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Ninja/Animation/Falling_To_Landing.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Ninja/Animation/Falling_Idle.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Ninja/Animation/MM_Fall_Loop.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Ninja/Animation/MM_Land.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/MaterialandTexture/akai_diffuse.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/MaterialandTexture/Akai_MAT.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/ABP_Akai.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/ABS_Crouch.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/ABS_Stand.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/akai_e_espiritu.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/akai_e_espiritu_PhysicsAsset.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/akai_e_espiritu_Skeleton.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/Animation/Crouch_Idle.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/Animation/Crouched_Walking.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/Animation/Running__1_.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/Animation/Standing_Idle.uasset",
+				"E:/College Work/3rd Semester/AFT812 Introduction to Game Engines/Learning/AFT812HemanMahajan/Content/Akai/Animation/Walking.uasset"
+			]
+		}
+	]
+}
